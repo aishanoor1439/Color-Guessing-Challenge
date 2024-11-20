@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\bin\Debug\Color Guessing Challenge.exe.config
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\bin\Debug\Color Guessing Challenge.exe
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\bin\Debug\Color Guessing Challenge.pdb
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\obj\Debug\Color Guessing Challenge.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\obj\Debug\Color Guessing Challenge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\obj\Debug\Color Guessing Challenge.exe
+C:\Users\DELL\source\repos\Color Guessing Challenge\Color Guessing Challenge\obj\Debug\Color Guessing Challenge.pdb
